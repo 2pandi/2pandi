@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=2260A6&height=250&section=header&text=🌻%20Welcome%20to%20my%20space!%20🌞&fontAlign=85&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=2260A6&height=250&section=header&text=🌻%20Welcome!%20🌞&fontAlign=50&fontSize=60)
 
 <div align=center><h1>🌻2pandi🌻</h1></div>
 
