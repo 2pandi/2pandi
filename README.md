@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=2A4C8E&height=300&section=header&text=🚀%202PANDI'S%20SPACE%20✨&fontAlign=70&fontAlignY=36&fontColor=F9F871&fontSize=45&desc=🌝&descAlign=85&descAlignY=-7&descSize=105&rotate=20&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=2A4C8E&height=150&section=header&text=🚀%202PANDI'S%20SPACE%20✨&fontAlign=50&fontAlignY=36&fontColor=F9F871&fontSize=35&desc=🌝&descAlign=92&descAlignY=9&descSize=105&rotate=10&animation=twinkling)
 
 
 <div align=center><h1>🛠 Under Construction 🛠</h1></div>
