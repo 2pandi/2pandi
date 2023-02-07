@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=2A4C8E&height=150&section=header&text=🚀%202PANDI'S%20SPACE%20✨&fontAlign=50&fontAlignY=36&fontColor=F9F871&fontSize=35&desc=🌝&descAlign=92&descAlignY=7&descSize=102&rotate=10&animation=twinkling)
 
-<p align="center">
+
 <h3 align="center">프론트엔드 개발자 이예빈입니다.</h3>
-<h4 align="center">문제를 즐겁게 고민하는 개발자가 되고 싶습니다.</h4>
+<p align="center">
+  문제를 즐겁게 고민하는 개발자가 되고 싶습니다.
 </p>
 
 </br>
@@ -17,10 +18,12 @@
   </a>
 </p>
 
+</br>
+  
 <h3 align="center">✏️ Learning<h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,jest" /></br>
-    <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,figma" />
 </p>
 
 </br>
