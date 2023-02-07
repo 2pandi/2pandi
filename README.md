@@ -17,9 +17,10 @@
   </a>
 </p>
 
-<h3 align="center">🛠 Skills<h3>
+<h3 align="center">✏️ Learning<h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,jest" /></br>
+    <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,figma" />
 </p>
 
 </br>
