@@ -8,10 +8,12 @@
 
 </br>
 
+
+
 <h3 align="center">🧏🏻‍♀️ Contact<h3>
 <p align="center">
-  <a href="https://velog.io/@2pandi" target="_blank">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+  <a href="https://2pandi.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-EC6653?style=for-the-badge&logo=Teradata&logoColor=white">
   </a>
   <a href="mailto:dev2pandi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
